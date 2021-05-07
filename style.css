@@ -1,0 +1,20 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Itim&family=Josefin+Sans:wght@100&display=swap');*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+    /*font-family: 'Itim', cursive;*/
+    
+}
+
+body{
+
+    background: hsl(66, 53%, 71%);
+    text-align: center;
+    
+}
+.MainBox{
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: 223px 50px;
+}
